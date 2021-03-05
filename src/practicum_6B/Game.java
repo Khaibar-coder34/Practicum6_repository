@@ -1,4 +1,4 @@
-package practicum_6;
+package practicum_6B;
 
 import java.time.LocalDate;
 
